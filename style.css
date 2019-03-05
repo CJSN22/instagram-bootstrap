@@ -1,0 +1,24 @@
+.row div {
+    margin-bottom: 5px;
+}
+
+.nav-pills .nav-link.active {
+        color: #fff;
+        background-color: #6c757d;
+}
+
+a {
+    color: #6c757d;
+}
+
+a:hover {
+    color: #6c757d;
+}
+
+.card-text {
+    font-size: larger;
+}
+
+p.card-text {
+    max-width: 800px;
+}
